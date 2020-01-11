@@ -1,2 +1,2 @@
-# aishasprojects
-Class Projects at Columbia
+Aisha's Projects
+Projects at Columbia
