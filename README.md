@@ -1,2 +1,2 @@
 #Aisha's Projects
-My Projects at Columbia
+My Projects - just small and fun coding challenges that I have completed so far.
